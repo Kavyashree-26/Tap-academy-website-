@@ -1,0 +1,30 @@
+
+#input{
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #000;
+    margin: 10px;
+}
+#button{
+    padding: 0px;
+    margin-left: 450px;
+}
+fieldset{
+    background-color: grey;
+}
+link:active{
+    background-color: red;
+}
+
+#privacy-policy:hover{
+    background-color: antiquewhite;
+color:deeppink;
+}
+#terms:hover{
+color:yellowgreen;
+background-color: azure;
+}
+#redund:hover{
+color: darkorange;
+background-color: aliceblue;
+}
